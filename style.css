@@ -13,7 +13,12 @@
     gap: 10px;
 }
 
-.horizontalul li {
+.horizontalul li 
+{
   width: auto; 
-  display: list-item; /* Varsayılan haline getirir */
+  display: list-item; 
+}
+.headertitle
+{
+    display: flex;
 }
