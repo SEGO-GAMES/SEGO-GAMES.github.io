@@ -22,3 +22,7 @@
 {
     display: flex;
 }
+html
+{
+    background-color: rgb(24, 38, 50);
+}
