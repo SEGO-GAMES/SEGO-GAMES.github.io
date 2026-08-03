@@ -1,3 +1,9 @@
+html
+{
+    background-color: rgb(24, 38, 50);
+    color: aliceblue;
+}
+
 .ico
 {
     border-radius: 10px ;
@@ -21,8 +27,4 @@
 .headertitle
 {
     display: flex;
-}
-html
-{
-    background-color: rgb(24, 38, 50);
 }
