@@ -12,11 +12,20 @@ html
     height: auto;
 }
 
+.segoico
+{
+    border-radius: 10px ;
+    width: 50%;
+    max-width: 80px;
+    height: auto;
+}
+
 .horizontalul
 {
     display: flex;
     list-style: none;
     gap: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .horizontalul li 
@@ -27,4 +36,52 @@ html
 .headertitle
 {
     display: flex;
+    gap: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.cell
+{
+    margin: 3% auto;
+    border: 1px, white;
+    border-style: dotted;
+    width: 50%;
+    height: auto;
+    align-self: center;
+}
+.makecenter
+{
+    padding: 0% 10%;
+}
+
+footer
+{
+    display: flex;
+    gap: 10px;
+    width: 25%;
+    margin: 3% auto;
+}
+
+
+
+p, h3
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+p, h3, h1 {
+  overflow: hidden;
+  white-space: nowrap;
+  width: 0;
+  animation: typing 3.5s steps(40, end) forwards, blink 0.75s step-end 2 forwards;
+}
+
+@keyframes typing {
+  from { width: 0; }
+  to { width: 100%; }
+}
+
+@keyframes blink {
+  from, to { border-color: transparent; }
 }
