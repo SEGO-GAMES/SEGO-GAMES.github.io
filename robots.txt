@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://sego-games.github.io/sitemap.xml
