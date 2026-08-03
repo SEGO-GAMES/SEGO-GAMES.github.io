@@ -5,4 +5,19 @@
     <lastmod>2026-08-03</lastmod>
     <priority>1.00</priority>
   </url>
+  <url>
+    <loc>https://sego-games.github.io/AboutUs.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://sego-games.github.io/ProjectList.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://sego-games.github.io/Updates.html</loc>
+    <lastmod>2026-08-03</lastmod>
+    <priority>0.80</priority>
+  </url>
 </urlset>
