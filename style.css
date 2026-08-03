@@ -9,5 +9,11 @@
 .horizontalul
 {
     display: flex;
+    list-style: none;
     gap: 10px;
+}
+
+.horizontalul li {
+  width: auto; 
+  display: list-item; /* Varsayılan haline getirir */
 }
